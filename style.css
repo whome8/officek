@@ -76,19 +76,19 @@ header > .container {
   transform: translateY(-50%);
 }
 [class*="btn_ico"][class*="mail"]:before {
-  background: url(../img/ico/ico_mail.svg);
+  background: url(img/ico/ico_mail.svg);
 }
 [class*="btn_ico"][class*="hito"]:before {
-  background: url(../img/ico/hito.svg);
+  background: url(img/ico/hito.svg);
 }
 [class*="btn_ico"][class*="youtube"]:before {
-  background: url(../img/ico/ico_sns_youtube.svg);
+  background: url(img/ico/ico_sns_youtube.svg);
 }
 
 
 /* トップビュー */
 .area_top_view {
-  background: url(../img/bg/bg_view.jpg) no-repeat bottom center;
+  background: url(img/bg/bg_view.jpg) no-repeat bottom center;
   background-size: cover;
 }
 .area_top_view > .container {
@@ -115,7 +115,7 @@ header > .container {
   display: block;
   width: 30px;
   height: 30px;
-  background: url(../img/ico/hito.svg) no-repeat center center;
+  background: url(img/ico/hito.svg) no-repeat center center;
   background-size: contain;
   position: absolute;
   top: 50%;
@@ -354,13 +354,13 @@ footer > .container {
   transform: translate(-50% , -50%);
 }
 .list_sns .youtube a:before {
-  background: url(../img/ico/ico_sns_youtube.svg);
+  background: url(img/ico/ico_sns_youtube.svg);
 }
 .list_sns .instagram a:before {
-  background: url(../img/ico/ico_sns_instagram.svg);
+  background: url(img/ico/ico_sns_instagram.svg);
 }
 .list_sns .facebook a:before {
-  background: url(../img/ico/ico_sns_facebook.svg);
+  background: url(img/ico/ico_sns_facebook.svg);
 }
 
 
